@@ -1,0 +1,28 @@
+{
+  "name": "blue-cream",
+  "displayName": "Blue Cream",
+  "description": "Blue Cream theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.69.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Blue Cream theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Blue Cream theme-color-theme.json"
+      }
+    ]
+  },
+  "publisher": "SivaprasadNK",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/sivaprasadnk/BlueCreamVSCodeTheme.git"
+
+  }
+
+}
